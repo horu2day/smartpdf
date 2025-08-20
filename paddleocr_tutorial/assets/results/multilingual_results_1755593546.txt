@@ -1,0 +1,51 @@
+PaddleOCR Multilingual Testing Results
+==================================================
+
+Language: English (en)
+Status: error
+Processing Time: 2.93s
+Text Count: 0
+Error: [WinError 127] 지정된 프로시저를 찾을 수 없습니다. Error loading "C:\Users\USER\AppData\Local\Programs\Python\Python311\Lib\site-packages\torch\lib\shm.dll" or one of its dependencies.
+
+------------------------------
+
+Language: Korean (korean)
+Status: error
+Processing Time: 0.01s
+Text Count: 0
+Error: [WinError 127] 지정된 프로시저를 찾을 수 없습니다. Error loading "C:\Users\USER\AppData\Local\Programs\Python\Python311\Lib\site-packages\torch\lib\shm.dll" or one of its dependencies.
+
+------------------------------
+
+Language: Chinese (Simplified) (ch)
+Status: error
+Processing Time: 0.01s
+Text Count: 0
+Error: [WinError 127] 지정된 프로시저를 찾을 수 없습니다. Error loading "C:\Users\USER\AppData\Local\Programs\Python\Python311\Lib\site-packages\torch\lib\shm.dll" or one of its dependencies.
+
+------------------------------
+
+Language: Latin Script Languages (latin)
+Status: error
+Processing Time: 0.02s
+Text Count: 0
+Error: [WinError 127] 지정된 프로시저를 찾을 수 없습니다. Error loading "C:\Users\USER\AppData\Local\Programs\Python\Python311\Lib\site-packages\torch\lib\shm.dll" or one of its dependencies.
+
+------------------------------
+
+Language: French (french)
+Status: error
+Processing Time: 0.01s
+Text Count: 0
+Error: [WinError 127] 지정된 프로시저를 찾을 수 없습니다. Error loading "C:\Users\USER\AppData\Local\Programs\Python\Python311\Lib\site-packages\torch\lib\shm.dll" or one of its dependencies.
+
+------------------------------
+
+Language: German (german)
+Status: error
+Processing Time: 0.01s
+Text Count: 0
+Error: [WinError 127] 지정된 프로시저를 찾을 수 없습니다. Error loading "C:\Users\USER\AppData\Local\Programs\Python\Python311\Lib\site-packages\torch\lib\shm.dll" or one of its dependencies.
+
+------------------------------
+

@@ -1,0 +1,34 @@
+# PaddleOCR Tutorial Requirements
+# Based on comprehensive tutorial guide recommendations
+
+# Core PaddleOCR Dependencies
+paddleocr>=2.10.0
+paddlepaddle>=3.0.0
+
+# Image Processing
+opencv-python>=4.8.0
+Pillow>=10.0.0
+numpy>=1.24.0
+
+# Visualization and Analysis
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Performance Monitoring
+psutil>=5.9.0
+memory-profiler>=0.61.0
+
+# Text Processing
+python-Levenshtein>=0.21.0
+
+# Testing Framework
+pytest>=7.4.0
+pytest-benchmark>=4.0.0
+
+# Development Tools
+ruff>=0.1.0
+mypy>=1.6.0
+
+# Optional: Advanced Features
+# pdf2image>=3.1.0  # For PDF processing examples
+# PyMuPDF>=1.23.0   # Alternative PDF processing
